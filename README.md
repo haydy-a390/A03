@@ -1,2 +1,1 @@
-# A03 HELLO
-Hello world
+# A03 Github Assignment
